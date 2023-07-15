@@ -1,0 +1,51 @@
+Quick Start
+
+Table of Contents
+
+This quick start is intended for intermediate to advanced developers. For a gentler intro to Gatsby, head to our tutorial!
+
+Getting started with Gatsby
+
+Create a new site
+It’ll ask for a site title and the name of the project’s directory. Continue following the prompts to choose your preferred language (JavaScript or TypeScript), CMS, styling tools and additional features.
+
+Once everything is downloaded you will see a message with instructions for navigating to your site and running it locally.
+The CLI created the site as a new folder with the name you chose in step 1.
+
+Start by going to the directory with
+
+Start the local development server with
+
+Gatsby will start a hot-reloading development environment accessible by default at http://localhost:8000.
+
+Now you’re ready to make changes to your site!
+Try editing the home page in src/pages/index.js. Saved changes will live reload in the browser.
+
+What’s next?
+
+Use flags
+
+The CLI also supports two flags:
+
+-y skips the questionnaire
+-ts initializes your project with the minimal TypeScript starter instead of the minimal JavaScript starter
+Flags are not positional, so these commands are equivalent:
+
+npm init gatsby -- -y -ts my-site-name
+npm init gatsby my-site-name -- -y -ts
+Add more features
+
+Follow our guides to add more functionality to your site or browse our plugins to quickly install additional features.
+
+Deploy your site
+
+Try using Gatsby Cloud to build and deploy your site to one of many hosting providers.
+
+Start building today on Gatsby Cloud!
+Edit this page on GitHub
+Previous
+
+Introduction
+Next
+
+Plugin Library
