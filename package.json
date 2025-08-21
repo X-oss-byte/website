@@ -95,7 +95,7 @@
     "lz-string": "^1.4.4",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-instantsearch-dom": "^6.7.0",
+    "react-instantsearch-dom": "^6.40.4",
     "regenerator-runtime": "^0.13.9",
     "unfetch": "^4.2.0"
   },
