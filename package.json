@@ -84,7 +84,7 @@
     "worker-loader": "^3.0.8"
   },
   "dependencies": {
-    "@babel/generator": "^7.21.4",
+    "@babel/generator": "^7.28.0",
     "@emotion/css": "^11.10.6",
     "algoliasearch": "^4.12.0",
     "buffer": "^5.7.1",
